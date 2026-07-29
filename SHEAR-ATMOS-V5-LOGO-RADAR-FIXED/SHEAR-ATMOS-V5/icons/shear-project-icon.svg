@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>SHEAR-ATMOS angular straight-line tornado</title>
+  <rect width="512" height="512" rx="94" fill="#090909"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M112 103L391 122L430 151L143 162" stroke="#ee3d37" stroke-width="28"/>
+    <path d="M143 162L361 191L391 220L171 221" stroke="#cf202c" stroke-width="28"/>
+    <path d="M171 221L333 249L357 277L197 276" stroke="#f35135" stroke-width="27"/>
+    <path d="M197 276L307 303L326 330L222 329" stroke="#d6212d" stroke-width="25"/>
+    <path d="M222 329L283 354L298 379L242 377" stroke="#ff7131" stroke-width="22"/>
+    <path d="M242 377L267 398L271 423" stroke="#e62a2f" stroke-width="18"/>
+  </g>
+  <path d="M256 408V444" stroke="#f6eee6" stroke-width="9" stroke-linecap="round"/>
+</svg>
